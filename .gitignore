@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+passwords.txt
+bfg-1.15.0.jar
+!.env.example
+config/firebase-service-account.json
+*-firebase-adminsdk-*.json
+npm-debug.log*
